@@ -1,2 +1,6 @@
-# operation
-Operation scripts and tools for Simplicité(R)
+Operation tools for Simplicit&eacute;&reg;
+===============================================
+
+This are examples of operation tools for Simplicit&eacute;&reg; sandboxes.
+
+The shell scripts have been developped on Linux CentOS, there are easily transposable to other platforms.
