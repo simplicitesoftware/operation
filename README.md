@@ -1,6 +1,6 @@
 Operation tools for Simplicit&eacute;&reg;
 ===============================================
 
-This are examples of operation tools for Simplicit&eacute;&reg; sandboxes.
+This are examples of operation tools for Simplicit&eacute;&reg; instances.
 
-The shell scripts have been developped on Linux CentOS, there are easily transposable to other platforms.
+These shell scripts have been developped on Linux CentOS, there are easily transposable to other platforms.
