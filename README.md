@@ -1,3 +1,6 @@
+![Simplicit&eacute; Software](https://www.simplicite.io/resources/logos/logo250.png)
+***
+
 Operation tools for Simplicit&eacute;&reg;
 ===============================================
 
